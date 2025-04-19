@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="786a5d13-86fa-4d22-8d2f-1efbf6dd1ea3">
+  <producedTypes>
+    <objectType typeId="0dda5006-41a3-42c6-8fdf-30af5725c31c" valueTypeId="3da12e4b-ae74-41bb-b4b9-5fc6aefac036"/>
+    <refType typeId="84a4b2ea-2978-4c57-8e02-2bafb274f064" valueTypeId="62f63405-b724-42df-8a3f-a4a6b21343af"/>
+    <selectionType typeId="b8d0958f-5a5d-456b-81c7-03e388f612f4" valueTypeId="47f2df87-5d01-42e2-9410-0c9c0a066558"/>
+    <listType typeId="a385a9d9-2c8a-4fc0-9bcc-8507ba783ee8" valueTypeId="3e1e851f-ce0a-4278-bc34-4e05936f6628"/>
+    <managerType typeId="db6b3e8f-d20b-4127-b493-586fcdfb0662" valueTypeId="07c6e765-462d-45bc-8899-c15b98b60b1b"/>
+  </producedTypes>
+  <name>Склады</name>
+  <synonym>
+    <key>ru</key>
+    <value>Склады</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Склады.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Склады.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Склад</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined>
+    <items id="e193c29c-4a9f-4513-a526-38e053b74fa3">
+      <name>Основной</name>
+      <description>Основной</description>
+      <code xsi:type="core:StringValue">
+        <value>000000001</value>
+      </code>
+    </items>
+  </predefined>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

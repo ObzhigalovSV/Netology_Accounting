@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e0459be5-b067-47fc-a0a6-88601132a97b">
+  <producedTypes>
+    <objectType typeId="5032b5a3-0c8e-4417-8ea4-0fd865ec4d8f" valueTypeId="5e00939a-73f6-4e0f-8b2f-137555a12239"/>
+    <managerType typeId="e38b9480-f77c-41cd-a092-74da80a3db72" valueTypeId="4d43b9c0-36b4-4447-916c-e5c371cafec8"/>
+  </producedTypes>
+  <name>ЗадолженностиПокупателей</name>
+  <synonym>
+    <key>ru</key>
+    <value>Задолженности покупателей</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.ЗадолженностиПокупателей.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="130de6d6-0d73-4581-b723-4595c7631a68">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
