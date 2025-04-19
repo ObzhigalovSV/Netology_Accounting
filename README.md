@@ -7,5 +7,5 @@
 
 
 #### Полный текст домашнего задания находится [здесь](https://github.com/ObzhigalovSV/Netology_Accounting/blob/main/homework-16-9.md)
-#### База данных HomeWork_16_5.dt с выполненными заданиями находится [здесь](https://github.com/ObzhigalovSV/Netology_OperationalAccounting/blob/main/HomeWork_16_5.dt)
+#### База данных HomeWork_16_9.dt с выполненными заданиями находится [здесь](https://github.com/ObzhigalovSV/Netology_Accounting/blob/main/homework-16-9.dt)
 #### Файлы конфигурации находятся в папке [Accounting](https://github.com/ObzhigalovSV/Netology_Accounting/tree/main/Accounting)
